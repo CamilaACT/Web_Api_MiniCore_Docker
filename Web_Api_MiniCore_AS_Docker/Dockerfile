@@ -13,6 +13,9 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["Web_Api_MiniCore_AS_Docker.csproj", "."]
+COPY Web_Api_MiniCore_AS_Docker.data/Web_Api_MiniCore_AS_Docker.data.csproj ./Web_Api_MiniCore_AS_Docker.data/
+COPY Web_Api_MiniCore_AS_Docker.model/Web_Api_MiniCore_AS_Docker.model.csproj ./Web_Api_MiniCore_AS_Docker.model/
+COPY Web_Api_MiniCore_AS_Docker.util/Web_Api_MiniCore_AS_Docker.util.csproj ./Web_Api_MiniCore_AS_Docker.util/
 RUN dotnet restore "./Web_Api_MiniCore_AS_Docker.csproj"
 COPY . .
 WORKDIR "/src/."

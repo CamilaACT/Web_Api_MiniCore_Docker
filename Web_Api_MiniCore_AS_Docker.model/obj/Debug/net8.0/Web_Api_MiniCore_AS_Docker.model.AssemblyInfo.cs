@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_Api_MiniCore_AS_Docker.model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0096e0a125bc76afbdf267908432190e77ef9db9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_Api_MiniCore_AS_Docker.model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_Api_MiniCore_AS_Docker.model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
