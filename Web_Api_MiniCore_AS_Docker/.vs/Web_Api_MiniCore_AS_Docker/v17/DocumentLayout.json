@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|solutionrelative:controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A1AA7-E59E-4755-AE7A-BDDC60400768}|Web_Api_MiniCore_AS_Docker.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F941B-B681-46E5-B043-1ABBA7E74EE9}|..\\Web_Api_MiniCore_AS_Docker.model\\Web_Api_MiniCore_AS_Docker.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker.model\\proc\\p_tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F941B-B681-46E5-B043-1ABBA7E74EE9}|..\\Web_Api_MiniCore_AS_Docker.model\\Web_Api_MiniCore_AS_Docker.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker.model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F941B-B681-46E5-B043-1ABBA7E74EE9}|..\\Web_Api_MiniCore_AS_Docker.model\\Web_Api_MiniCore_AS_Docker.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker.model\\request\\tarea_fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EDB73E-059E-49D8-B921-9A7CFDBCF69A}|..\\Web_Api_MiniCore_AS_Docker.util\\Web_Api_MiniCore_AS_Docker.util.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker.util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D232D75-2ED7-46C3-B427-27065ECE9D9D}|..\\Web_Api_MiniCore_AS_Docker.data\\Web_Api_MiniCore_AS_Docker.data.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicruddocker2\\web_api_minicore_as_docker.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "Controllers\\TareaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:58:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:57:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:57:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\Response\\Respuesta.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCore_AS_Docker.model\\Response\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\Response\\Respuesta.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCore_AS_Docker.model\\Response\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:56:39.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.util\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCore_AS_Docker.util\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.util\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCore_AS_Docker.util\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:55:39.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p_Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\proc\\p_Tarea.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCore_AS_Docker.model\\proc\\p_Tarea.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\proc\\p_Tarea.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCore_AS_Docker.model\\proc\\p_Tarea.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:54:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea_fechas.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\Request\\Tarea_fechas.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCore_AS_Docker.model\\Request\\Tarea_fechas.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.model\\Request\\Tarea_fechas.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCore_AS_Docker.model\\Request\\Tarea_fechas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:55:02.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "c_base_datos.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.data\\DAO\\c_base_datos.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCore_AS_Docker.data\\DAO\\c_base_datos.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrudDocker2\\Web_Api_MiniCore_AS_Docker.data\\DAO\\c_base_datos.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCore_AS_Docker.data\\DAO\\c_base_datos.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:52:15.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

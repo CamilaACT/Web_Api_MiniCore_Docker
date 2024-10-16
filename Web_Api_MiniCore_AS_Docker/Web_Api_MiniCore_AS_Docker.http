@@ -1,0 +1,6 @@
+@Web_Api_MiniCore_AS_Docker_HostAddress = http://localhost:5223
+
+GET {{Web_Api_MiniCore_AS_Docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

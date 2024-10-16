@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Web_Api_MiniCore_AS_Docker.data\Web_Api_MiniCore_AS_Docker.data.csproj" />
+    <ProjectReference Include="..\Web_Api_MiniCore_AS_Docker.util\Web_Api_MiniCore_AS_Docker.util.csproj" />
+  </ItemGroup>
+
+</Project>
